@@ -1,0 +1,16 @@
+!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>邵阳周杰伦的个人网站</title>
+    <style>
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+<h1>哈哈，新页面</h1>
+  </body>
+</html>
